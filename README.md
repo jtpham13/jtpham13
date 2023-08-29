@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**jtpham13/jtpham13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 🚀 Aspiring Full-Stack Developer | Passionate about learning deeper into web development 🌐
 
 👋 Hey there, I'm Joey, and I'm on a journey to become a proficient full-stack developer. My mission is to be able to create full stack user-friendly web applications.
