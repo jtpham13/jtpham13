@@ -19,7 +19,7 @@ Tools: Git, VS Code
 
 📚 Lifelong Learner: Constantly exploring new technologies, best practices, and open-source contributions.
 
-🎯 My goal? To make the web a better place, one line of code at a time. Let's connect and code the future! 🌍
+🎯 My goal? To make user friendly full stack web applications 🌍
 
 📫 Reach me at joeypham13@gmail.com
 🌐 Portfolio: https://main--glistening-bubblegum-f52663.netlify.app/
